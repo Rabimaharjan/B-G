@@ -1,0 +1,14 @@
+body{
+    margin-top: 20px;
+    
+}
+button{
+    color: #ffffff;
+   border-radius: 4px;
+    padding: 3.5px;
+    border: none;
+    font-weight: bold;
+    text-align: center;
+    background-color: green;
+    width: auto;
+}
